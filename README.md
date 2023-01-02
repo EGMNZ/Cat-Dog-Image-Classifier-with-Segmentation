@@ -40,6 +40,7 @@ We can potentially use this to make profiles for animals, people, or other thing
 * Machine Learning
 * Data Visualization
 * Deep Learning (Convolutional Neural Networks) 
+* Transfer Learning
 * Pre-Trained VGG16 model 
 * GrabCut algorithm
 
